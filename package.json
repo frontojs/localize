@@ -6,7 +6,7 @@
     "i18n",
     "fronto"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Localization module for react apps",
   "scripts": {
     "build": "webpack"
